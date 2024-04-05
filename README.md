@@ -1,3 +1,3 @@
 # Event
 Try to create a event  tools.
-Autor - Saurabh Wasnik
+Author - Saurabh Wasnik
